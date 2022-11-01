@@ -8,5 +8,6 @@ PACKAGES = "\
 
 RDEPENDS:packagegroup-bea-utility = "\
   bc \
-  ninvaders \
+  tar \
+  screen \
 "
